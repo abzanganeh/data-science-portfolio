@@ -75,7 +75,7 @@ titanic-survival-analysis/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/titanic-survival-analysis.git
+git clone https://github.com/abzanganeh/titanic-survival-analysis.git
 cd titanic-survival-analysis
 ```
 
