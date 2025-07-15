@@ -164,7 +164,6 @@ This analysis methodology can be applied to:
 **Alireza Barzin Zanganeh**
 - 📧 Email: abarzinzanganeh@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/alireza-barzin-zanganeh-2a9909126](https://linkedin.com/in/alireza-barzin-zanganeh-2a9909126)
-- 🌐 Portfolio: [barzin.xyz](https://barzin.xyz)
 - 📍 Location: WA, USA
 
 ---
