@@ -40,6 +40,6 @@ Mathematical foundations for machine learning using NumPy for matrix operations,
 
 - 📧 Email: abarzinzanganeh@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/alireza-barzin-zanganeh-2a9909126](https://linkedin.com/in/alireza-barzin-zanganeh-2a9909126)
-- 🌐 Portfolio: [barzin.xyz](https://barzin.xyz)
+
 
 
